@@ -61,8 +61,6 @@ The final model performance and predictions are stored in the results/ directory
 Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-License
-This project is licensed under the MIT License.
 
 Acknowledgments
 The Iris dataset is provided by the UCI Machine Learning Repository.
