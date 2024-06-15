@@ -1,4 +1,4 @@
-# Codsoft-3_IRIS-FLOWER-CLASSIFICATION
+# Codsoft-2_IRIS-FLOWER-CLASSIFICATION
 This repository contains a machine learning project that classifies Iris flowers into their respective species based on sepal and petal measurements. This project utilizes the Iris dataset, which is a classic example for introductory classification tasks in machine learning.
 
 Overview
